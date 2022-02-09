@@ -11,6 +11,7 @@ https://www.kaggle.com/zeyadkhalid/mbti-personality-types-500-dataset
 - 타켓 : type
 - 모두 문자열 데이터
 
+목표 : 16가지 클래스 분류
 
 ###### 문자열 처리 시급...
 ###### 선택지
