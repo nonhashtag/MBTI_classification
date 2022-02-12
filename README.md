@@ -17,3 +17,5 @@ https://www.kaggle.com/zeyadkhalid/mbti-personality-types-500-dataset
 ###### 선택지
 ###### &nbsp;&nbsp;&nbsp; - 단어 Tokenize
 ###### &nbsp;&nbsp;&nbsp; - 각 단어 column 취급
+
+###### (각 단어 column화 시도중)
