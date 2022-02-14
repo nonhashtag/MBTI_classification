@@ -20,3 +20,4 @@ https://www.kaggle.com/zeyadkhalid/mbti-personality-types-500-dataset
 
 ###### (각 단어 column화 시도중)
 ###### - 중복단어 문제
+###### - 순서 상관여부 확인해야함
